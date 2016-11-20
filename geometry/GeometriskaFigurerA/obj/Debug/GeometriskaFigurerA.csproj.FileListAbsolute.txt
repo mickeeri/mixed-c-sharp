@@ -1,0 +1,6 @@
+C:\Users\Micke\Projects\2-3-geometriska-figurer\GeometriskaFigurerA\bin\Debug\GeometriskaFigurerA.exe.config
+C:\Users\Micke\Projects\2-3-geometriska-figurer\GeometriskaFigurerA\obj\Debug\GeometriskaFigurerA.csprojResolveAssemblyReference.cache
+C:\Users\Micke\Projects\2-3-geometriska-figurer\GeometriskaFigurerA\bin\Debug\GeometriskaFigurerA.exe
+C:\Users\Micke\Projects\2-3-geometriska-figurer\GeometriskaFigurerA\bin\Debug\GeometriskaFigurerA.pdb
+C:\Users\Micke\Projects\2-3-geometriska-figurer\GeometriskaFigurerA\obj\Debug\GeometriskaFigurerA.exe
+C:\Users\Micke\Projects\2-3-geometriska-figurer\GeometriskaFigurerA\obj\Debug\GeometriskaFigurerA.pdb

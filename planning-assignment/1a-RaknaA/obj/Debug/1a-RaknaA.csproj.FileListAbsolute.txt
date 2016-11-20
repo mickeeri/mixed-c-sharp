@@ -1,0 +1,6 @@
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\1a-RaknaA\bin\Debug\1a-RaknaA.exe.config
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\1a-RaknaA\bin\Debug\1a-RaknaA.exe
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\1a-RaknaA\bin\Debug\1a-RaknaA.pdb
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\1a-RaknaA\obj\Debug\1a-RaknaA.csprojResolveAssemblyReference.cache
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\1a-RaknaA\obj\Debug\1a-RaknaA.exe
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\1a-RaknaA\obj\Debug\1a-RaknaA.pdb

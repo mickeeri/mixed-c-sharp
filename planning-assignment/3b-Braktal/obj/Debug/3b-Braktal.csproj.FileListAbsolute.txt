@@ -1,0 +1,9 @@
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\3b-Braktal\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\3b-Braktal\obj\Debug\ConsoleApplication1.exe
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\3b-Braktal\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\3b-Braktal\bin\Debug\ConsoleApplication1.exe
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\3b-Braktal\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\3b-Braktal\obj\Debug\3b-Braktal.csprojResolveAssemblyReference.cache

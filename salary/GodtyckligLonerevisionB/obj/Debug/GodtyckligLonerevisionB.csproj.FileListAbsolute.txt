@@ -1,0 +1,6 @@
+C:\Users\Micke\Projects\1-3-godycklig-lonerevision\GodtyckligLonerevisionB\bin\Debug\GodtyckligLonerevisionB.exe.config
+C:\Users\Micke\Projects\1-3-godycklig-lonerevision\GodtyckligLonerevisionB\bin\Debug\GodtyckligLonerevisionB.exe
+C:\Users\Micke\Projects\1-3-godycklig-lonerevision\GodtyckligLonerevisionB\bin\Debug\GodtyckligLonerevisionB.pdb
+C:\Users\Micke\Projects\1-3-godycklig-lonerevision\GodtyckligLonerevisionB\obj\Debug\GodtyckligLonerevisionB.csprojResolveAssemblyReference.cache
+C:\Users\Micke\Projects\1-3-godycklig-lonerevision\GodtyckligLonerevisionB\obj\Debug\GodtyckligLonerevisionB.exe
+C:\Users\Micke\Projects\1-3-godycklig-lonerevision\GodtyckligLonerevisionB\obj\Debug\GodtyckligLonerevisionB.pdb

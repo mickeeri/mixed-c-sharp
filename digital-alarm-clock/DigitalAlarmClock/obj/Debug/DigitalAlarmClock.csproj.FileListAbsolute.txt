@@ -1,0 +1,6 @@
+C:\Users\Micke\Projects\2-2-digital-vackarklocka\DigitalAlarmClock\bin\Debug\DigitalAlarmClock.exe.config
+C:\Users\Micke\Projects\2-2-digital-vackarklocka\DigitalAlarmClock\bin\Debug\DigitalAlarmClock.exe
+C:\Users\Micke\Projects\2-2-digital-vackarklocka\DigitalAlarmClock\bin\Debug\DigitalAlarmClock.pdb
+C:\Users\Micke\Projects\2-2-digital-vackarklocka\DigitalAlarmClock\obj\Debug\DigitalAlarmClock.csprojResolveAssemblyReference.cache
+C:\Users\Micke\Projects\2-2-digital-vackarklocka\DigitalAlarmClock\obj\Debug\DigitalAlarmClock.exe
+C:\Users\Micke\Projects\2-2-digital-vackarklocka\DigitalAlarmClock\obj\Debug\DigitalAlarmClock.pdb

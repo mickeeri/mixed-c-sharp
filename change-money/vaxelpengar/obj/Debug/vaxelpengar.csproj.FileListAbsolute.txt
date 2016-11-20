@@ -1,0 +1,6 @@
+C:\Users\Micke\Projects\1dv402-me222wm-1-1-vaxelpengar\vaxelpengar\bin\Debug\vaxelpengar.exe.config
+C:\Users\Micke\Projects\1dv402-me222wm-1-1-vaxelpengar\vaxelpengar\obj\Debug\vaxelpengar.csprojResolveAssemblyReference.cache
+C:\Users\Micke\Projects\1dv402-me222wm-1-1-vaxelpengar\vaxelpengar\bin\Debug\vaxelpengar.exe
+C:\Users\Micke\Projects\1dv402-me222wm-1-1-vaxelpengar\vaxelpengar\bin\Debug\vaxelpengar.pdb
+C:\Users\Micke\Projects\1dv402-me222wm-1-1-vaxelpengar\vaxelpengar\obj\Debug\vaxelpengar.exe
+C:\Users\Micke\Projects\1dv402-me222wm-1-1-vaxelpengar\vaxelpengar\obj\Debug\vaxelpengar.pdb

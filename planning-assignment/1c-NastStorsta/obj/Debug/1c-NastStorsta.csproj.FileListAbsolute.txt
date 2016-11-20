@@ -1,0 +1,6 @@
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\1c-NastStorsta\bin\Debug\1c-NastStorsta.exe.config
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\1c-NastStorsta\bin\Debug\1c-NastStorsta.exe
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\1c-NastStorsta\bin\Debug\1c-NastStorsta.pdb
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\1c-NastStorsta\obj\Debug\1c-NastStorsta.csprojResolveAssemblyReference.cache
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\1c-NastStorsta\obj\Debug\1c-NastStorsta.exe
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\1c-NastStorsta\obj\Debug\1c-NastStorsta.pdb

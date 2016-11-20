@@ -1,0 +1,6 @@
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\3a-Palindrom\bin\Debug\3a-Palindrom.exe.config
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\3a-Palindrom\bin\Debug\3a-Palindrom.exe
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\3a-Palindrom\bin\Debug\3a-Palindrom.pdb
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\3a-Palindrom\obj\Debug\3a-Palindrom.csprojResolveAssemblyReference.cache
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\3a-Palindrom\obj\Debug\3a-Palindrom.exe
+C:\Users\Micke\Documents\GitHub\1dv404-laboration-1\3a-Palindrom\obj\Debug\3a-Palindrom.pdb
